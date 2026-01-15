@@ -13,7 +13,7 @@ Questo progetto è un'applicazione web da utilizzare come un semplice counter, c
 - Reset dei valori
 
 ##*📸 Screenshot*
-![Screenshot Counter](./images/screenshot.png)]
+![Screenshot Counter](./images/Screenshot.png)]
 
 ##🌐 Link all'Applicazione
 Prova l’applicazione direttamente qui: 🔗https://contatore-6467b.web.app/
