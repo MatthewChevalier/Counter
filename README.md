@@ -1,4 +1,4 @@
-# **Counter Project**
+# **Project Counter**
 ## *📝 Descrizione del Progetto*
 Questo progetto è un'applicazione web da utilizzare come un semplice counter, con opzioni di salvataggio per 2 count diversi.
 
